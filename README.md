@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>NX Fahim</title>
+
+<style>
+
+body{
+background:#050008;
+font-family:Arial;
+text-align:center;
+color:white;
+padding:30px;
+}
+
+.logo{
+width:140px;
+height:140px;
+border-radius:50%;
+box-shadow:0 0 30px purple;
+margin-bottom:20px;
+}
+
+h1{
+font-size:45px;
+color:#b300ff;
+text-shadow:0 0 20px #b300ff;
+}
+
+.bio{
+margin-bottom:30px;
+color:#ccc;
+}
+
+.btn{
+display:block;
+background:#14001f;
+padding:18px;
+margin:15px auto;
+width:85%;
+border-radius:20px;
+text-decoration:none;
+color:white;
+font-size:20px;
+box-shadow:0 0 20px #9500ff;
+transition:.3s;
+}
+
+.btn:hover{
+transform:scale(1.05);
+background:#7000ff;
+}
+
+</style>
+</head>
+
+<body>
+
+<img src="https://i.imgur.com/8Km9tLL.png" class="logo">
+
+<h1>NX Fahim/h1>
+
+<p class="bio">
+MASTER YOUR MOTION
+</p>
+
+<a class="btn" href="#">
+🎥 YouTube
+</a>
+
+<a class="btn" href="#">
+🎵 TikTok
+</a>
+
+<a class="btn" href="#">
+📘 Facebook
+</a>
+
+<a class="btn" href="#">
+📸 Instagram
+</a>
+
+<a class="btn" href="#">
+💬 Telegram
+</a>
+
+</body>
+</html>
